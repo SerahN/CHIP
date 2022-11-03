@@ -1,0 +1,13 @@
+{
+    "format": "CHIP-0007",
+    "name": "sesan-the-smartie",
+    "description": " ",
+    "minting_tool": " ",
+    "sensitive_content": false,
+    "series_number": "17",
+    "series_total": "392",
+    "collection": {
+        "name": "HNG9 NFT COLLECTION",
+        "id": "ba3edda7-8940-4ca4-97ba-826398d5909f"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "format": "CHIP-0007",
+    "name": "yakubu-the-zombie",
+    "description": " ",
+    "minting_tool": " ",
+    "sensitive_content": false,
+    "series_number": "20",
+    "series_total": "392",
+    "collection": {
+        "name": "HNG9 NFT COLLECTION",
+        "id": "4adb6781-1614-424e-8f77-fe59ffca2209"
+    }
+}
