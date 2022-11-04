@@ -14,7 +14,7 @@ Please, take note of the operating system you are using as the steps may vary.
 
 This set-up instructions aims at helping a developer get the code from the git repository to run on their system.
 
-###Fetch git code to local machine
+### Fetch git code to local machine
 Follow these steps to fetch the git code to your system:
 
 Clone this project's repository. To do this, open your code editor and choose "Clone Git Repository", then click on "Clone from GitHub", and enter
