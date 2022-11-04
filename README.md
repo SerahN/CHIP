@@ -20,7 +20,7 @@ Follow these steps to fetch the git code to your system:
 Clone this project's repository. To do this, open your code editor and choose "Clone Git Repository", then click on "Clone from GitHub", and enter
 `https://github.com/SerahN/CHIP.git`
 
-Run the script and you will be prompted to input type the path or name of the csv file.
+Run the script and you will be prompted to input type the path or name of the csv file. The standard file used here is HNGi9 CSV FILE.csv, which is in this repository.
 
 ## Output
 
