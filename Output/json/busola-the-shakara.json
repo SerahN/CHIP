@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007",
+    "filename": "busola-the-shakara",
+    "name": "busola the shakara",
+    "description": "She is a fashion icon that loves luxurious items.",
+    "gender": "Female",
+    "minting_tool": "TEAM HYDRAULICS",
+    "sensitive_content": false,
+    "series_number": "281",
+    "series_total": "420",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "hair",
+            "value": "brown eyes"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}

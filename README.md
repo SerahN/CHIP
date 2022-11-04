@@ -20,10 +20,10 @@ Follow these steps to fetch the git code to your system:
 Clone this project's repository. To do this, open your code editor and choose "Clone Git Repository", then click on "Clone from GitHub", and enter
 `https://github.com/SerahN/CHIP.git`
 
-Input your csv file into the code in script.py and run the program.
+Run the script and you will be prompted to input type the path or name of the csv file.
 
-## Results
+## Output
 
-The generated json files will be located in the json folder. A new file will be created bearing a new column tagged Sha-256.
+The generated json files will be located in the Output\json folder. A new csv file will also be created bearing a new column tagged SHA-256.
 
 P.S.: Resources are files I used during work that are still useful to me, kindly ignore them.

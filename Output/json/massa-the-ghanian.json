@@ -1,0 +1,31 @@
+{
+    "format": "CHIP-0007",
+    "filename": "massa-the-ghanian",
+    "name": "massa the ghanian",
+    "description": "A rich trader who loves giving back to the community",
+    "gender": "Male",
+    "minting_tool": "",
+    "sensitive_content": false,
+    "series_number": "290",
+    "series_total": "420",
+    "attributes": [
+        {
+            "trait_type": "gender",
+            "value": "Male"
+        },
+        {
+            "trait_type": "hair",
+            "value": "covered eyes"
+        }
+    ],
+    "collection": {
+        "name": "Zuri NFT Tickets for Free Lunch",
+        "id": "b774f676-c1d5-422e-beed-00ef5510c64d",
+        "attributes": [
+            {
+                "type": "description",
+                "value": "Rewards for accomplishments during HNGi9"
+            }
+        ]
+    }
+}
